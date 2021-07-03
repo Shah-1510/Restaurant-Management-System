@@ -1,0 +1,102 @@
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\RestaurantMS.exe.config
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\RestaurantMS.exe
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\RestaurantMS.pdb
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\Guna.UI2.dll
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.AccessControl.dll
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.Permissions.dll
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.AccessControl.xml
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.Permissions.xml
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.csprojAssemblyReference.cache
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Customer.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Form1.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Login.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Manager.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Properties.Resources.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Receptionist.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Selectone.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.SignInorUp.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Signup.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewdeals.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewmenu.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ViewReservationtocustomer.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.csproj.GenerateResource.cache
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.csproj.CopyComplete
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.exe
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.pdb
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.AddDeals.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Deals.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.InsertinMenu.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Menu.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ModifyinMenu.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.PLaceOrder.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.RemovefromMenu.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Reservation.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewallreservation.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Viewdealtomanager.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ViewReservationtorecep.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewselectedreservation.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.insertitemininventory.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Inventory.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.updateinventory.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ViewAllInven.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewinventory.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewselectedcs.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ViewgeneratedInvoice.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Printorder.resources
+C:\Users\Shoaib Shah\source\repos\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewmenutomanager.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\RestaurantMS.exe.config
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\RestaurantMS.exe
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\RestaurantMS.pdb
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\Guna.UI2.dll
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.AccessControl.dll
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.Permissions.dll
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.Principal.Windows.dll
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Configuration.ConfigurationManager.xml
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.AccessControl.xml
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.Permissions.xml
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\bin\x64\Debug\System.Security.Principal.Windows.xml
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.csprojAssemblyReference.cache
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.AddDeals.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Customer.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Deals.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Form1.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.InsertinMenu.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.insertitemininventory.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Inventory.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Login.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Manager.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Menu.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ModifyinMenu.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.PLaceOrder.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Printorder.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Properties.Resources.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Receptionist.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.RemovefromMenu.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Reservation.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Selectone.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.SignInorUp.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Signup.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.updateinventory.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ViewAllInven.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewallreservation.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewdeals.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.Viewdealtomanager.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ViewgeneratedInvoice.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewinventory.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewmenu.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewmenutomanager.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ViewReservationtocustomer.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.ViewReservationtorecep.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewselectedcs.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.viewselectedreservation.resources
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.csproj.GenerateResource.cache
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.csproj.CoreCompileInputs.cache
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.csproj.CopyComplete
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.exe
+D:\BSE 4-A\DBMS\Restaurant MS 4th Sem\RestaurantMS\RestaurantMS\obj\x64\Debug\RestaurantMS.pdb

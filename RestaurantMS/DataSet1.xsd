@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="RMSSConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="RMSSConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.RestaurantMS.Properties.Settings.GlobalReference.Default.RMSSConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ReservationTableAdapter" GeneratorDataComponentClassName="ReservationTableAdapter" Name="Reservation" UserDataComponentName="ReservationTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="RMSSConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT Reservation.tableNo, Reservation.noofchairs, Reservation.res_date, customer.cust_id
+FROM   Reservation CROSS JOIN
+             customer</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="tableNo" DataSetColumn="tableNo" />
+              <Mapping SourceColumn="noofchairs" DataSetColumn="noofchairs" />
+              <Mapping SourceColumn="res_date" DataSetColumn="res_date" />
+              <Mapping SourceColumn="cust_id" DataSetColumn="cust_id" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Reservation" msprop:Generator_TableClassName="ReservationDataTable" msprop:Generator_TableVarName="tableReservation" msprop:Generator_TablePropName="Reservation" msprop:Generator_RowDeletingName="ReservationRowDeleting" msprop:Generator_RowChangingName="ReservationRowChanging" msprop:Generator_RowEvHandlerName="ReservationRowChangeEventHandler" msprop:Generator_RowDeletedName="ReservationRowDeleted" msprop:Generator_UserTableName="Reservation" msprop:Generator_RowChangedName="ReservationRowChanged" msprop:Generator_RowEvArgName="ReservationRowChangeEvent" msprop:Generator_RowClassName="ReservationRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tableNo" msprop:Generator_ColumnVarNameInTable="columntableNo" msprop:Generator_ColumnPropNameInRow="tableNo" msprop:Generator_ColumnPropNameInTable="tableNoColumn" msprop:Generator_UserColumnName="tableNo" type="xs:int" />
+              <xs:element name="noofchairs" msprop:Generator_ColumnVarNameInTable="columnnoofchairs" msprop:Generator_ColumnPropNameInRow="noofchairs" msprop:Generator_ColumnPropNameInTable="noofchairsColumn" msprop:Generator_UserColumnName="noofchairs" type="xs:int" />
+              <xs:element name="res_date" msprop:Generator_ColumnVarNameInTable="columnres_date" msprop:Generator_ColumnPropNameInRow="res_date" msprop:Generator_ColumnPropNameInTable="res_dateColumn" msprop:Generator_UserColumnName="res_date" type="xs:dateTime" />
+              <xs:element name="cust_id" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columncust_id" msprop:Generator_ColumnPropNameInRow="cust_id" msprop:Generator_ColumnPropNameInTable="cust_idColumn" msprop:Generator_UserColumnName="cust_id" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Reservation" />
+      <xs:field xpath="mstns:tableNo" />
+      <xs:field xpath="mstns:cust_id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
